@@ -98,7 +98,7 @@ class Home extends Component {
             elevation: 15,
             backgroundColor: '#8ABADF'
           }}>
-          <Text style={{ fontSize: 15, color: 'white', fontWeight: 'bold', marginLeft: 10 }}>Logout</Text>
+          <Text style={{ fontSize: 15, color: 'black', fontWeight: 'bold', marginLeft: 10 }}>Logout</Text>
           </TouchableOpacity>
            </ScrollView>
 
